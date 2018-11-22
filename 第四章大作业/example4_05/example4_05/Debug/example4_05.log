@@ -1,0 +1,3 @@
+﻿  example4_05.cpp
+d:\玖玖君。\学习\③大二上\面向对象c++\代码\11.22\example4_05\example4_05\example4_05.cpp(48): error C2662: “void Person::Print(void)”: 不能将“this”指针从“const Person”转换为“Person &”
+  d:\玖玖君。\学习\③大二上\面向对象c++\代码\11.22\example4_05\example4_05\example4_05.cpp(48): note: 转换丢失限定符
